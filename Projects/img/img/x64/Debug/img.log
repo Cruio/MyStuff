@@ -1,3 +1,5 @@
 ﻿  img.cpp
-  img.vcxproj -> C:\Users\Lars Nielsen\Documents\Visual Studio 2017\Projects\img\x64\Debug\img.exe
-  img.vcxproj -> C:\Users\Lars Nielsen\Documents\Visual Studio 2017\Projects\img\x64\Debug\img.pdb (Partial PDB)
+img.obj : error LNK2001: unresolved external symbol "int * histo" (?histo@@3PAHA)
+img.obj : error LNK2001: unresolved external symbol "int * histo2" (?histo2@@3PAHA)
+img.obj : error LNK2001: unresolved external symbol "int * histogramcount" (?histogramcount@@3PAHA)
+C:\Users\Lars Nielsen\Desktop\Gitclone\MyStuff\Projects\img\x64\Debug\img.exe : fatal error LNK1120: 3 unresolved externals
