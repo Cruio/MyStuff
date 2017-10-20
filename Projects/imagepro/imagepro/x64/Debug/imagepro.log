@@ -1,0 +1,5 @@
+﻿  imagepro.cpp
+c:\users\lars nielsen\documents\visual studio 2017\projects\imagepro\imagepro\imagepro.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lars nielsen\documents\visual studio 2017\projects\imagepro\imagepro\imagepro.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  imagepro.vcxproj -> C:\Users\Lars Nielsen\documents\visual studio 2017\Projects\imagepro\x64\Debug\imagepro.exe
+  imagepro.vcxproj -> C:\Users\Lars Nielsen\documents\visual studio 2017\Projects\imagepro\x64\Debug\imagepro.pdb (Partial PDB)
