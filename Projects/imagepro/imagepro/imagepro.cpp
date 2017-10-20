@@ -101,15 +101,11 @@ int main()
 	namedWindow("Original Image");
 	imshow("Original Image", image);
 
-	// Display the original Histogram
 
 
 	// Display equilized image
 	namedWindow("Equilized Image");
 	imshow("Equilized Image", new_image);
-
-	// Display the equilzed histogram
-
 
 	waitKey();
 	return 0;
